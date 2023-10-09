@@ -81,6 +81,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/salman-ibrahim/salman-ibrahim/output/snake.svg" alt="Snake animation" />
-
 ###
