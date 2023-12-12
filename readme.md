@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! You are visiting Salman Ibrahim/h2>
+<h2 align="left">Hi 👋! You are visiting Salman Ibrahim</h2>
 
 ###
 
