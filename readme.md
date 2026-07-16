@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Working as a Fullstack Developer<br>💻 Building Reward Studio<br>🤝 I enjoy exploring technologies<br>♟️ Playing chess when not coding</p>
+<p align="left">👨‍💻 Working as a Fullstack Developer<br>💻 Building Vizarank<br>🤝 I enjoy exploring technologies<br>♟️ Playing chess when not coding</p>
 
 ###
 
