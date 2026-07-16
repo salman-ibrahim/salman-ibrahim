@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">👨‍💻 Working as a Fullstack Developer<br>💻 Building [Vizarank](https://vizarank.com) <br>🤝 I enjoy exploring technologies<br>♟️ Playing chess when not coding</p>
+<p align="left">👨‍💻 Working as a Fullstack Developer<br>💻 Building <a href="https://vizarank.com" target="_blank">Vizarank</a> <br>🤝 I enjoy exploring technologies<br>♟️ Playing chess when not coding</p>
+
 
 ###
 
